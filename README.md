@@ -54,4 +54,4 @@ Tools & Skills Used
 
   • **MySQL** for data storage and querying
 
-**Power BI** for building interactive dashboards
+  • **Power BI** for building interactive dashboards
