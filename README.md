@@ -1,4 +1,4 @@
-This project focuses on analyzing top-rated movies from The Movie Database (TMDB). The goal was to collect data from multiple sources, clean and organize it using **Python**, store it efficiently in a **MySQL database**, and finally visualize the insights using **Power BI**. It was a great opportunity for me to apply the entire **data analytics** pipeline from end to end.
+This project focuses on analyzing top-rated movies from The Movie Database (TMDB). The goal was to collect data from API and Web Scraping , clean and organize it using **Python**, store it efficiently in a **MySQL database**, and finally visualize the insights using **Power BI**. It was a great opportunity for me to apply the entire **data analytics** pipeline from end to end.
 
 What I Did
 
@@ -38,9 +38,9 @@ What I Did
 
 Insights I Found
 
-  • Drama and Crime were the most common genres among top-rated movies.
+  • Drama was the most common genres among top-rated movies.
 
-  • The early 1990s and 2010s saw a peak in high-rated movie releases.
+  • The early 1990s and 2010s saw a peak in high-rated movie releases. And after 2020s its dropping
 
   • Higher popularity didn't always mean better ratings.
 
